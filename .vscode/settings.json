@@ -1,0 +1,11 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "AppBd",
+            "database": "${workspaceFolder:contractum}/database/app.db"
+        }
+    ],
+    "sqltools.useNodeRuntime": true
+}
